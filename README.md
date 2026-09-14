@@ -14,7 +14,6 @@ Founder of Buryan IT and Security Consulting. Before that, IT Technical Lead for
 ## Repositories
 
 - [ai-receptionist-stack](https://github.com/geradotl/ai-receptionist-stack): multilingual voice receptionist on an ElevenLabs voice, Retell AI, Cal.com and n8n; test build exercised end to end
-- [ats-cv-builder](https://github.com/geradotl/ats-cv-builder): data-driven ATS-safe CV generator with a LibreOffice page-fit check
 
 ## Elsewhere
 
